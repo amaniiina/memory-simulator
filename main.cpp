@@ -2,8 +2,6 @@
 #include <stdio.h>
 #include "sim_mem.cpp"
 int main(){
-    // jmKXt :mZH^ ndqRV 1?cFm ;tZfP 5nys: MKxQ\ Z[Oms f`E\k UGzq] V1@5h `nD^O N0kK; //adr66=//5^f=P H]i]>
-    // Zk>Bb UQceV 93JMa ilJBp U1Tu> ]vkLA c_2ZZ dh15; @?>C\ Xf6sx
     char val;
     sim_mem mem_sm("exec_file", "swap_file" ,25, 50, 25,25, 25, 5);
     mem_sm.store( 80,'X');
